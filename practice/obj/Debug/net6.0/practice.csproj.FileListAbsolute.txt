@@ -1,0 +1,15 @@
+/Users/sanjiv/Documents/code/practice/bin/Debug/net6.0/practice
+/Users/sanjiv/Documents/code/practice/bin/Debug/net6.0/practice.deps.json
+/Users/sanjiv/Documents/code/practice/bin/Debug/net6.0/practice.runtimeconfig.json
+/Users/sanjiv/Documents/code/practice/bin/Debug/net6.0/practice.dll
+/Users/sanjiv/Documents/code/practice/bin/Debug/net6.0/practice.pdb
+/Users/sanjiv/Documents/code/practice/obj/Debug/net6.0/practice.csproj.AssemblyReference.cache
+/Users/sanjiv/Documents/code/practice/obj/Debug/net6.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjiv/Documents/code/practice/obj/Debug/net6.0/practice.AssemblyInfoInputs.cache
+/Users/sanjiv/Documents/code/practice/obj/Debug/net6.0/practice.AssemblyInfo.cs
+/Users/sanjiv/Documents/code/practice/obj/Debug/net6.0/practice.csproj.CoreCompileInputs.cache
+/Users/sanjiv/Documents/code/practice/obj/Debug/net6.0/practice.dll
+/Users/sanjiv/Documents/code/practice/obj/Debug/net6.0/refint/practice.dll
+/Users/sanjiv/Documents/code/practice/obj/Debug/net6.0/practice.pdb
+/Users/sanjiv/Documents/code/practice/obj/Debug/net6.0/practice.genruntimeconfig.cache
+/Users/sanjiv/Documents/code/practice/obj/Debug/net6.0/ref/practice.dll
